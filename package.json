@@ -1,0 +1,30 @@
+{
+  "name": "boutique",
+  "version": "1.0.0",
+  "description": "Online shopping experience for boutique customers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohittir/Boutique.git"
+  },
+  "keywords": [
+    "nodejs",
+    "boutique",
+    "angular2",
+    "mongodb"
+  ],
+  "author": "Rohit Tirmanwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohittir/Boutique/issues"
+  },
+  "homepage": "https://github.com/rohittir/Boutique#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.11"
+  }
+}
